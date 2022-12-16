@@ -1,0 +1,106 @@
+.setting_raccourcis {
+    border: 1px solid;
+    margin-top: 10px;
+    padding: 8px;
+    background-color: #334466;
+
+}
+
+.icon_settings_raccourcis {
+    cursor: pointer;
+}
+
+.raccourcis .setting_raccourcis .item {
+    border: 1px solid;
+    margin-bottom: 4px;
+    font-size: 19px;
+    padding: 5px;
+}
+
+.raccourcis .setting_raccourcis .item:hover {
+    background-color: #ffffff8a;
+}
+
+.raccourcis .settinFg_raccourcis label {
+    display: block;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.body_raccourcis a {
+    color: #000 !important;
+    text-decoration: none;
+}
+
+.raccourcis .setting_raccourcis label input {
+    margin-right: 5px;
+}
+
+.head_raccourcis_cnt {
+    position: relative;
+
+}
+
+.hide-item {
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: #fff !important;
+    background-color: #ff00008a;
+    color: #fff;
+}
+
+.hide-item:hover {
+    background-color: #ff4444 !important
+}
+
+.raccourcis {
+    position: relative;
+    border: 3px solid #fff;
+    background-color: #68728A;
+    border-radius: 10px;
+}
+
+.head_raccourcis {
+    border-bottom: 3px solid #fff;
+    padding: 10px;
+    color: white;
+}
+
+.head_raccourcis h4 {
+    display: inline;
+    font-weight: bold;
+}
+
+.head_raccourcis img {
+    width: 50px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 10px;
+    bottom: 0;
+
+}
+
+.body_raccourcis div.racc {
+    border-radius: 8px;
+    background-color: #fff;
+    margin: 8px;
+    padding: 5px;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+.body_raccourcis div.racc:hover {
+    border: 2px solid #000;
+    background-color: rgba(255, 255, 255, 0.707);
+
+}
+
+.body_raccourcis img {
+    width: 45px;
+    height: 45px;
+    margin-right: 10px;
+}

@@ -1,0 +1,130 @@
+.div-profile {
+    position: relative;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.my_profile h3 a {
+    color: #000;
+    text-decoration: none;
+}
+
+.my_profile h3 a:hover {
+    text-decoration: underline;
+}
+
+.my_profile .profile_img {
+    width: 300px;
+    height: 300px;
+    border: 10px solid #334466;
+    border-radius: 10px;
+}
+
+.menu span {
+    font-size: 30px;
+}
+
+.partager_ {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #334466;
+    color: #fff;
+    border-top-right-radius: 10px;
+    padding: 5px 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.partager_ img {
+    width: 40px;
+    margin-right: 8px;
+}
+
+.modifierMonProfil img {
+    width: 40px;
+}
+
+.menu .active {
+    font-weight: 600;
+    /*color: #334466;*/
+}
+
+.div-profile .menu>div:hover {
+    font-weight: 400;
+}
+
+.div-profile .menu>div.active:hover {
+    font-weight: 600;
+}
+
+.menu {
+    font-size: 30px;
+    text-align: center;
+    border-top: 2px solid;
+    margin-top: 30px;
+    font-weight: lighter;
+}
+
+.menu span {
+    font-weight: 1000;
+}
+
+.menu2 {
+    margin-top: 1rem;
+    border-bottom: 2px solid;
+
+}
+
+.modifierMonProfil {
+    background-color: #334466;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.modifierMonProfil>img {
+    margin-right: 5px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+}
+
+.my_profile {
+    display: flex;
+}
+
+.my_profile .info {
+    margin: auto 30px;
+}
+
+.modifierMonProfil span {
+    margin-left: 50px;
+}
+
+.div-profile .Form_info {
+    width: 100%;
+    font-size: 30px;
+}
+
+.div-profile .Form_info input[type='text'],
+.div-profile .Form_info input[type='number'] {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.div-profile .Form_info button {
+    width: 100%;
+}
+
+.genre label {
+    font-size: 22px;
+    width: 100%;
+    font-weight: 500;
+}

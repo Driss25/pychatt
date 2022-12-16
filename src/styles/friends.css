@@ -1,0 +1,49 @@
+.friends_div>div {
+    position: relative;
+    border-radius: 10px;
+}
+
+.friends_div .profile_friends {
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
+.bar-filter-friends {
+    height: 50px;
+    border-radius: 10px;
+    border-color: transparent;
+    font-size: x-large;
+    padding-left: 10px;
+    outline: transparent;
+}
+
+.threeDots_ {
+    width: 20px;
+    position: absolute;
+    top: 50%;
+    right: 5%;
+}
+
+.profile_friends {
+    width: 20%;
+    height: 85%;
+}
+
+.friends_div a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.friends_div a:hover {
+    color: #000;
+}
+
+.friends_div>div:hover {
+    background-color: #ececec !important;
+}
+
+.friends_div a:hover {
+    text-decoration: underline;
+}

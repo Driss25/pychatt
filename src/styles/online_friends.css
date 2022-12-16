@@ -1,0 +1,122 @@
+/**/
+.setting_online_friends {
+    border: 1px solid;
+    margin-top: 10px;
+    padding: 8px;
+    background-color: #334466;
+}
+
+.compte_online_friends a:hover {
+    text-decoration: underline;
+    color: #334466;
+}
+
+.icon_settings_online_friends {
+    cursor: pointer;
+}
+
+.online_friends .setting_online_friends .item {
+    border: 1px solid;
+    margin-bottom: 4px;
+    font-size: 19px;
+}
+
+.online_friends .setting_online_friends .item:hover {
+    background-color: #ffffff8a;
+}
+
+.online_friends .setting_online_friends label {
+    display: block;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.head_online_friends_cnt {
+    position: relative;
+
+}
+
+.hide-item {
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: #fff !important;
+    background-color: #ff00008a;
+    color: #fff;
+}
+
+.hide-item:hover {
+    background-color: #ff4444 !important
+}
+
+/**/
+
+.online_friends {
+    position: relative;
+    border: 3px solid #fff;
+    background-color: #68728A;
+    border-radius: 10px;
+}
+
+.head_online_friends {
+    border-bottom: 3px solid #fff;
+    padding: 10px;
+    color: white;
+}
+
+.head_online_friends h4 {
+    display: inline;
+    font-weight: bold;
+}
+
+.head_online_friends img {
+    width: 50px;
+    right: 10px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 10px;
+    bottom: 0;
+}
+
+.compte_online_friends {
+    position: relative;
+    padding: 5px;
+    margin: 5px;
+    background-color: #33446680;
+    border-radius: 16px;
+}
+
+.compte_online_friends:hover {
+    background-color: #ffffff80;
+    cursor: pointer;
+}
+
+.body_online_friends img.profile {
+    width: 70px;
+    border-radius: 10px;
+    border: 4px solid #007E33;
+    margin-right: 8px;
+}
+
+.body_online_friends img.chatt {
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    margin: auto;
+    top: 0;
+    right: 10px;
+    bottom: 0;
+}
+
+.body_online_friends img.chatt:hover {
+    width: 55px;
+    cursor: pointer;
+
+}
+
+.compte_online_friends a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}

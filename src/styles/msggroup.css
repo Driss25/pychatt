@@ -1,0 +1,31 @@
+.msgGroup {
+    padding: 0 10px;
+    border-radius: 10px;
+}
+
+.msgGroup h1 {
+    font-size: 50px;
+}
+
+.msgTextArea {
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 12px;
+    min-height: 300px;
+}
+
+.msgGroup input[type='text'] {
+    border-radius: 12px;
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.cc input[type='text'] {
+    width: 100%;
+}
+
+.cc span {
+    font-size: 30px;
+    font-weight: 500;
+}

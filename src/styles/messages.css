@@ -1,0 +1,58 @@
+.chatts {
+    width: 60px;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    right: 10px;
+    margin: auto;
+}
+
+.link-divv {
+    text-decoration: none;
+    color: #000;
+}
+
+.link-divv:hover {
+    color: #000;
+}
+
+.link-divv .last-msg:hover {
+    text-decoration: underline;
+}
+
+.divFCon {
+    position: relative;
+    border-radius: 10px;
+    display: flex
+}
+
+.divFCon:hover {
+    background-color: rgb(232, 232, 232) !important;
+}
+
+.divFCon .profilee {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    border: 2px solid
+}
+
+.divFCon .fleexDiv {
+    display: inline;
+    margin-left: 10px;
+
+}
+
+.divFCon .fleexDiv span.spn {
+    color: #000;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.divFCon .fleexDiv a:hover {
+    text-decoration: underline;
+}
+
+.divFCon .fleexDiv p {
+    display: inline;
+}

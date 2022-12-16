@@ -1,0 +1,57 @@
+#logo {
+    width: 120px;
+}
+
+nav {
+    background-color: #334466;
+}
+
+.icon {
+    width: 40px;
+    height: 35px;
+    margin: auto 8px;
+}
+
+nav ul li {
+    color: #fff;
+    border: 2px solid;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 100%;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav ul a:hover {
+    color: white;
+}
+
+nav ul li:hover {
+    background-color: #7c8eb6;
+}
+
+nav ul li.active {
+    background-color: #fff;
+}
+
+nav ul li.active {
+    color: #334466;
+}
+
+#plus {
+    border: 3px solid;
+    background-color: #007bff;
+}
+
+#plus:hover {
+    background-color: #007bff;
+}

@@ -1,0 +1,87 @@
+.notifications .headRR {
+    border-bottom: 2px solid #000;
+    font-weight: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.notifications {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.notifications .headRR .rr_ {
+    border-right: solid 2px;
+}
+
+.notifications .headRR,
+.notifications .rr_ {
+    border-color: #c1c1c1 !important;
+}
+
+.notifications .headRR {
+    color: #c1c1c1;
+}
+
+.notifications .headRR .active {
+    color: #000;
+}
+
+.notifications .voirT {
+    color: blue;
+    float: right;
+    padding: 5px;
+    background-color: #c1c1c1;
+    padding: 10px auto;
+}
+
+.notifications .voirT:hover {
+    text-decoration: underline
+}
+
+
+.notifications .prfffl {
+    width: 90px;
+    height: 90px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.notifications .ntf {
+    border-radius: 10px;
+    background-color: #d9d9d980;
+    box-shadow: -2px 2px 5px;
+}
+
+.notifications .unread {
+    background-color: #d9d9d9;
+    border: 2px solid;
+}
+
+.notifications .ntf .inff {
+    margin: auto 0 auto 10px;
+}
+
+.notifications p {
+    margin: auto;
+}
+
+.notifications .threeDotsNFT {
+    width: 20px;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+}
+
+.notifications .ntf {
+    display: flex;
+}
+
+.notifications .inff {
+    width: 100%;
+    position: relative;
+}
+
+.notifications .proffill:hover {
+    text-decoration: underline !important;
+}

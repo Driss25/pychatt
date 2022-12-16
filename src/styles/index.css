@@ -1,0 +1,41 @@
+#app {
+    max-width: 1900px;
+    margin: auto;
+}
+
+#interface .active {
+    background-color: #000 !important;
+    color: white;
+}
+
+#interface {
+    cursor: pointer;
+    max-width: 1900px;
+    background-color: rgb(107, 107, 107);
+    border-bottom: 4px solid #000;
+    border-right: 4px solid #000;
+    border-left: 4px solid #000;
+    margin: 0;
+}
+
+#interface a {
+    color: white;
+    text-decoration: none;
+}
+
+#interface:hover {
+    opacity: 1;
+}
+
+#interface h2:hover {
+    background-color: #787878;
+}
+
+#interface h2 {
+    margin: 0;
+    height: 38px;
+}
+
+.pointer {
+    cursor: pointer;
+}

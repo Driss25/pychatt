@@ -1,0 +1,42 @@
+.partager_f {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #334466;
+    color: #fff;
+    border-top-right-radius: 10px;
+    padding: 5px 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.partager_f img {
+    width: 40px;
+    margin-right: 8px;
+}
+
+
+.profileFr .profile_img_fr {
+    width: 300px;
+    height: 300px;
+    border: 10px solid #334466;
+    border-radius: 10px;
+}
+
+.profileFr {
+    display: flex;
+
+}
+
+.profileFr .info {
+    margin: auto 30px;
+}
+
+.profileFrPa {
+    position: relative;
+    border-radius: 10px;
+}
+
+.profileFrPa {
+    padding: 8px;
+}

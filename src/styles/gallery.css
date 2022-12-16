@@ -1,0 +1,51 @@
+.gallery h1 {
+    font-size: 50px;
+}
+
+.gallery .carddImg {
+    margin-bottom: 15px;
+}
+
+.gallery {
+    padding: 0 10px;
+    padding-bottom: 1px;
+    border-radius: 10px;
+
+}
+
+.bttns button {
+    background-color: #33446680 !important;
+    color: #fff !important;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.bttns button.active {
+    background-color: #334466 !important;
+    color: #fff !important;
+    border-color: #334466 !important;
+}
+
+#btnnS1 {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+
+#btnnS2 {
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+
+.tblDATA img {
+    width: 150px;
+    height: 150px;
+}
+
+.tblDATA {
+    background-color: rgb(244, 244, 244);
+    border: 1px solid !important;
+}
+
+.carddImg img {
+    height: 300px;
+}

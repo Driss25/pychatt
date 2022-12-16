@@ -1,0 +1,49 @@
+.statu_owner img {
+    width: 30%;
+    border: 3px solid #fff;
+    border-radius: 10px;
+}
+
+#ajouter_storie {
+    width: 40%;
+    display: block;
+    margin: 10px auto;
+}
+
+
+.statu_card {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.statu_owner {
+    position: absolute;
+    bottom: 7px;
+    left: 10px;
+}
+
+.statu_owner a {
+    margin-left: 5px;
+    color: #fff !important;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.statu_owner a:hover {
+    text-decoration: underline;
+}
+
+#my_storie {
+    background-color: #E9E9E9;
+}
+
+.statu_card>div {
+    margin: auto 5px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.statu_card>div {
+    border: 1px solid transparent;
+}

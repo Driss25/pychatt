@@ -1,0 +1,133 @@
+.myDiv1 div.cnt {
+    background-color: #E1E8FF;
+    cursor: pointer;
+}
+
+.myDiv1 img {
+    width: 40px;
+}
+
+.cntnttINPTC {
+    width: 100%;
+    padding: 8px 10px;
+    font-size: 23px;
+}
+
+.commentsUTL a {
+    font-weight: bold;
+}
+
+.inputAddComments {
+    width: 100%;
+    left: 0;
+    border-radius: 10px;
+}
+
+.cmntsDIV_ii {
+    height: 300px;
+    overflow: auto;
+}
+
+.underTextHover:hover {
+    text-decoration: underline;
+    cursor: default;
+}
+
+.myDiv1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.no_result_found img {
+    width: 200px;
+}
+
+.no_result_found {
+    text-align: center;
+    background-color: #fff;
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight: bolder;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.pub-description {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.publications .text {
+    font-size: 18px;
+}
+
+.publications .link {
+    font-size: 18px;
+}
+
+.red {
+    color: #FF0000 !important;
+}
+
+.pub-description {
+    margin: .7rem 0;
+}
+
+.owner a {
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.profile_owner {
+    width: 90px;
+    height: 90px;
+    border: 3px solid #000;
+    border-radius: 8px
+}
+
+.video {
+    cursor: pointer;
+}
+
+.threeDots {
+    width: 20px;
+    position: absolute;
+    right: 5px;
+    top: 40%;
+}
+
+.owner {
+    position: relative;
+}
+
+.spectateurs {
+    width: 20px;
+    height: 20px;
+}
+
+.profile_owner+div p {
+    font-weight: bold;
+}
+
+.profile_owner+div a:hover {
+    text-decoration: underline;
+}
+
+.commentsUTL img {
+    width: 50px;
+    border: #000 solid;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.commentsUTL a {
+    color: #000 !important;
+    text-decoration: none;
+}
+
+.commentsUTL a:hover {
+    text-decoration: underline;
+
+}

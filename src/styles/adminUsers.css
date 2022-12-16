@@ -1,0 +1,108 @@
+.resultBAR .friends_div_2>div:hover {
+    background-color: #ececec !important;
+    border-color: #bebebe;
+}
+
+.resultBAR .friends_div_2>div {
+    border: 1px solid transparent;
+}
+
+.friends_div_2 .profile_friends_2 {
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
+.profile_friends_2 {
+    width: 100px;
+    height: 100px;
+}
+
+.resultBAR .thisSelected {
+    background-color: #bebebe !important;
+}
+
+.resultBAR .friends_div_2>div.thisSelected:hover {
+    background-color: #bebebe !important;
+}
+
+.adminUsers {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.icon_search {
+    width: 50px;
+    height: 40px;
+    top: 0;
+    bottom: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: auto;
+    position: absolute;
+    border-right: 2px solid;
+}
+
+.cntnt_inf table th {
+    font-weight: 700;
+    font-size: x-large;
+}
+
+.cntnt_inf table td {
+    font-size: larger;
+}
+
+.permissions select {
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+select:disabled {
+    cursor: not-allowed;
+}
+
+.input_search {
+    height: 50px;
+    width: 100%;
+    padding-left: 55px;
+    font-size: 28px;
+    outline: none;
+    border-radius: 8px;
+    border: 1px solid;
+}
+
+.cntn_input_search_icon {
+    position: relative;
+}
+
+.resultBAR p {
+    font-size: larger;
+}
+
+.resultBAR {
+    height: 230px;
+    overflow: auto;
+}
+
+.compteInfoD th {
+    font-size: larger;
+}
+
+.compteInfoD .cntnt_inf img {
+    width: 100%;
+    border: 8px solid #334466;
+    border-radius: 10px;
+}
+
+.permissions .cntnsn label {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.permissions .cntnsn select {
+    float: right;
+}
+
+.permissions .cntnsn>div {
+    margin: 8px auto;
+}

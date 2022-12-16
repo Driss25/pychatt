@@ -1,0 +1,70 @@
+.addPub form table td {
+    text-align: center;
+}
+
+.addPub h1 {
+    font-size: 50px;
+}
+
+.addPub form table {
+    font-size: 1.5rem;
+}
+
+.addPub th {
+    width: 25%;
+}
+
+.addPub {
+    background-color: #fff;
+    padding: 0 10px;
+    border-radius: 10px;
+}
+
+.addPub textarea {
+    resize: none;
+}
+
+.btns-type span {
+    width: 20%;
+}
+
+.btns-range span {
+    width: 33.33%;
+
+}
+
+.btns-range span,
+.btns-type span {
+    background-color: #33446680 !important;
+    border-color: #33446680 !important;
+    color: #fff !important;
+}
+
+.btns-range span:hover,
+.btns-type span:hover {
+    background-color: #334466cd !important;
+    border-color: #334466cd !important;
+}
+
+.btns-range span.active,
+.btns-type span.active {
+    background-color: #334466 !important;
+    border-color: #334466 !important;
+}
+
+.btns-type span,
+.btns-range span {
+    border-radius: 0;
+}
+
+.btns-type span:first-child,
+.btns-range span:first-child {
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.btns-type span:last-child,
+.btns-range span:last-child {
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
